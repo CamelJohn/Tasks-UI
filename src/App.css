@@ -1,0 +1,13 @@
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.wrapper {
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+  align-items: center;
+}
